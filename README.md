@@ -1,1 +1,2 @@
-# Vmware-win11-Windows-11--already-exists-in-this-account
+# Vmware安装win11提示这台电脑无法运行Windows 11解决方法
+现在使用最新版的vmwar workstation Pro17目前还没有更新对windows 11安装的最好方式，在创建时没有Windows11的选项，未来应该会更新。那么我们现在有一些伙伴想尝试在vmware中安装可能碰见一些问题，这个问题其实虚拟机的一些参数默认没有启动。下面我们可以通过一些修改启动支持windows 11的功能。
