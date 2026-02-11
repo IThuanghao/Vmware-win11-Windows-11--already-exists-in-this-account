@@ -18,7 +18,7 @@
 ![iamge](https://github.com/IThuanghao/Vmware-win11-Windows-11--already-exists-in-this-account/blob/main/Vmare_win11_image/5.png)  <br>
 
 接下来在到硬件选项卡下点击添加，弹出一个添加硬件向导的窗口，在这个窗口中选择“可信平台模块”点击下一步就可以了。这一步正常是需要设置密码的，所以在上一步要求必须设置密码，否则无法添加。  <br>
-![image]([https://github.com/IThuanghao/Vmware-win11-Windows-11--already-exists-in-this-account/blob/main/Vmare_win11_image/6.png0](https://github.com/IThuanghao/Vmware-win11-Windows-11--already-exists-in-this-account/blob/main/Vmare_win11_image/6.png))  <br>
+![image](https://github.com/IThuanghao/Vmware-win11-Windows-11--already-exists-in-this-account/blob/main/Vmare_win11_image/6.png)<br>
 如果你测试很多次发现必须用BIOS才能正确启动系统，可是添加可行平台模块又需要使用uefi启动  <br>
 那么你就遇到了跟我一样的问题了  <br>
 解决办法就是启动后一直按enter键<br>
